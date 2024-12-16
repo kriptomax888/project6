@@ -1,0 +1,15 @@
+/Users/danilmakovskiy/Projects/lab6/lab6/obj/Debug/net7.0/lab6.csproj.AssemblyReference.cache
+/Users/danilmakovskiy/Projects/lab6/lab6/obj/Debug/net7.0/lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilmakovskiy/Projects/lab6/lab6/obj/Debug/net7.0/lab6.AssemblyInfoInputs.cache
+/Users/danilmakovskiy/Projects/lab6/lab6/obj/Debug/net7.0/lab6.AssemblyInfo.cs
+/Users/danilmakovskiy/Projects/lab6/lab6/obj/Debug/net7.0/lab6.csproj.CoreCompileInputs.cache
+/Users/danilmakovskiy/Projects/lab6/lab6/bin/Debug/net7.0/lab6
+/Users/danilmakovskiy/Projects/lab6/lab6/bin/Debug/net7.0/lab6.deps.json
+/Users/danilmakovskiy/Projects/lab6/lab6/bin/Debug/net7.0/lab6.runtimeconfig.json
+/Users/danilmakovskiy/Projects/lab6/lab6/bin/Debug/net7.0/lab6.dll
+/Users/danilmakovskiy/Projects/lab6/lab6/bin/Debug/net7.0/lab6.pdb
+/Users/danilmakovskiy/Projects/lab6/lab6/obj/Debug/net7.0/lab6.dll
+/Users/danilmakovskiy/Projects/lab6/lab6/obj/Debug/net7.0/refint/lab6.dll
+/Users/danilmakovskiy/Projects/lab6/lab6/obj/Debug/net7.0/lab6.pdb
+/Users/danilmakovskiy/Projects/lab6/lab6/obj/Debug/net7.0/lab6.genruntimeconfig.cache
+/Users/danilmakovskiy/Projects/lab6/lab6/obj/Debug/net7.0/ref/lab6.dll
